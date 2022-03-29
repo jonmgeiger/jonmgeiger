@@ -5,6 +5,7 @@ I'm currently a fourth-year student at Seattle Pacific University, studying **Ph
 ### I'm interested in: 
 - **Data Science and Data Communication**. Data should be both accessible and comprehensible, and that proper data communication should be unbiased and informative. 
 - **Physics Education**. I've worked as as a Learning Assistant for SPU's Physics department for the last three years, and have become fascinated with how students formulate ideas about physics. In particular, I'm interested in the connection between students' tacit life experience and how they interpret physics questions through a unique lens.
+- **Computer Building & Mechanical Keyboards**! Tinkering with computers has always been a hobby of mine, and I love talking computer hardware with people.
 
 ### I'm currently working on: 
 - My [honors thesis](https://github.com/jonmgeiger-honors-project), characterizing student ideas in undergraduate physics using Natural Language Processing. 
@@ -18,5 +19,5 @@ I'm currently a fourth-year student at Seattle Pacific University, studying **Ph
 ### More information: 
 - Pronouns: he/him
 - Phone: (714) 655-6197
-- Email: <geigerj@spu.edu>
-- Socials: @jonmgeiger on [LinkedIn](https://www.linkedin.com/in/jonmgeiger), [Twitter](https://www.twitter.com/jonmgeiger), [Instagram](https://www.instagram.com/jonmgeiger).
+- Email: [geigerj@spu.edu](mailto:geigerj@spu.edu)
+- Socials: @jonmgeiger on [LinkedIn](https://www.linkedin.com/in/jonmgeiger), [Twitter](https://www.twitter.com/jonmgeiger), and [Instagram](https://www.instagram.com/jonmgeiger).
