@@ -15,7 +15,7 @@ I'm currently a fourth-year student at Seattle Pacific University, studying **Ph
 ### I'm looking forward to: 
 - Interviewing for Data Science positions. I'm currently searching for entry-level Data Scientist positions around the Seattle, WA area, hoping to start in Summer or Fall of 2022. 
 - Graduating! I'll be finishing my undergraduate degrees in June 2022, looking to move into the field afterwards.
-- Graduate School? I'm hoping to pursue a graduate degree in Applied Mathematics/Statistics, currently hoping to focus on Statistical/Machine Learning
+- Graduate School? I'm hoping to pursue a graduate degree in Applied Mathematics/Statistics, currently looking at concentrations in Statistical/Machine Learning with applications in data science education. 
 
 ### More information: 
 - Pronouns: he/him
