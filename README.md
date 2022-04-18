@@ -8,7 +8,7 @@ I'm currently a fourth-year student at Seattle Pacific University, studying **Ph
 - **Computer Building & Mechanical Keyboards**! Tinkering with computers has always been a hobby of mine, and I love talking computer hardware with people.
 
 ### I'm currently working on: 
-- My [honors thesis](https://github.com/jonmgeiger-honors-project), characterizing student ideas in undergraduate physics using Natural Language Processing. 
+- My [honors thesis](https://github.com/jonmgeiger-honors-project), ``Developing a Natural Language Processing Approach for Categorizing Student Ideas in Introductory Calculus-based Physics.''
 - [Statistical Learning](https://github.com/jonmgeiger/islr-notes)! I'm making my way through _An Introduction to Statistical Learning_, taking notes and doing exercises as I go. 
 - A [collaborative data analysis project](https://github.com/noelgoodwin/household-conditions), looking at household Conditions by geographic school district for my Data Analytics capstone class. 
 
