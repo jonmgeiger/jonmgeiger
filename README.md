@@ -10,7 +10,7 @@ I'm currently a fourth-year student at Seattle Pacific University, studying **Ph
 ### I'm currently working on: 
 - My [honors thesis](https://github.com/jonmgeiger-honors-project), "Developing a Natural Language Processing Approach for Categorizing Student Ideas in Introductory Calculus-based Physics."
 - [Statistical Learning](https://github.com/jonmgeiger/islr-notes)! I'm making my way through _An Introduction to Statistical Learning_, taking notes and doing exercises as I go. 
-- A [collaborative data analysis project](https://github.com/noelgoodwin/household-conditions), looking at household Conditions by geographic school district for my Data Analytics capstone class. 
+- A [collaborative data analysis project](https://github.com/jonmgeiger/household-conditions), looking at household Conditions by geographic school district for my Data Analytics capstone class. 
 
 ### I'm looking forward to: 
 - Interviewing for Data Science positions. I'm currently searching for entry-level Data Scientist positions around the Seattle, WA area, hoping to start in Summer or Fall of 2022. 
