@@ -1,6 +1,6 @@
 # Hey, I'm Jon! 
 
-I'm currently a fourth-year student at Seattle Pacific University, studying **Physics** and **Applied Mathematics**, also pursuing a degree in **Honors Liberal Arts** and a minor in **Data Analytics**. Check out [my resume](https://github.com/jonmgeiger/resume/blob/main/geiger_resume.pdf) for more info about my work history and specific skillset.
+I'm currently a fourth-year student at Seattle Pacific University, studying **Physics** and **Applied Mathematics**, also pursuing a degree in **Honors Liberal Arts** and a minor in **Data Analytics**. Check out [my resume](https://github.com/jonmgeiger/resume/blob/main/geiger_resume.pdf) (a fun LaTeX project of mine) for more info about my work history and specific skillset.
 
 ### I'm interested in: 
 - **Data Science and Data Communication**. Data should be both accessible and comprehensible, and that proper data communication should be unbiased and informative. 
